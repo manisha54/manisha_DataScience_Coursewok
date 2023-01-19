@@ -909,6 +909,7 @@ LancashireSchool18 = select(LancashireSchool18, Year, PCODE, SCHNAME, ATT8SCR)
 LancashireSchool21 = select(LancashireSchool21, Year, PCODE, SCHNAME, ATT8SCR)
 LancashireSchool17 = select(LancashireSchool17, Year, PCODE, SCHNAME, ATT8SCR)
 
+LeicestershireSchool16 = select(LancashireSchool17, Year, PCODE, SCHNAME, ATT8SCR)
 LeicestershireSchool17 = select(LancashireSchool17, Year, PCODE, SCHNAME, ATT8SCR)
 LeicestershireSchool18 = select(LancashireSchool18, Year, PCODE, SCHNAME, ATT8SCR)
 LeicestershireSchool21 = select(LancashireSchool21, Year, PCODE, SCHNAME, ATT8SCR)
